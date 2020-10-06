@@ -2,4 +2,4 @@
 
 This is my *first* repo.
 
-![a cute cartoon cat editing wikipedia](./cat.gif)
+![cool cat](./cat.gif)
