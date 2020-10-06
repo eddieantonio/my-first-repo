@@ -2,4 +2,4 @@
 
 This is my *first* repo.
 
-![cool cat](./cat.gif)
+![dope cat](./cat.gif)
